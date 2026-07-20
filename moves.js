@@ -1,4 +1,4 @@
-function moves(vertex, visited) {
+function getMoves(vertex, visited) {
   const possibilities = [];
 
   let x = vertex[0] + 1;
@@ -60,4 +60,4 @@ function moves(vertex, visited) {
   return possibilities;
 }
 
-export { moves };
+export { getMoves };
