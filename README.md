@@ -1,6 +1,6 @@
 ## Knights Travails
 
-Demonstrates use of breadth first search in order to find the shortest path between two squares or vertices that the knight can move across the edges of the chessboard. (the Odin Project curriculum: https://www.theodinproject.com/lessons/javascript-knights-travails)
+Demonstrates the use of breadth first search in order to find the shortest path between two squares or vertices that the knight can move along the edges of the chessboard. (the Odin Project curriculum: https://www.theodinproject.com/lessons/javascript-knights-travails)
 
 
 ## Objective
